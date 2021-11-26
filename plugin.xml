@@ -8,10 +8,6 @@
     <description>Cordova/Phonegap plugin to update platform configuration files based on preferences and config-file data defined in config.xml</description>
     <author>Dave Alden</author>
 
-    <engines>
-        <engine name="cordova" version=">=3.0.0" />
-    </engines>
-
     <repo>https://github.com/dpa99c/cordova-custom-config.git</repo>
     <issue>https://github.com/dpa99c/cordova-custom-config/issues</issue>
 
